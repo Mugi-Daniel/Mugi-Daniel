@@ -4,8 +4,6 @@
 - I'm currently learning python and vue.js
 - 💞️ I’m looking to collaborate on github for many projects
 - 📫 Reach me on wisedaniel080@gmail.com 
-<hr>
-
 
 
 <hr>
