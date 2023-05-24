@@ -4,12 +4,7 @@
 - I'm currently learning python and vue.js
 - 💞️ I’m looking to collaborate on github for many projects
 - 📫 Reach me on wisedaniel080@gmail.com 
-
-
-<hr>
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=Mugi-Daniel&show_icons=true&theme=tokyonight" 
-/>
+- 
 <hr>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mugi-Daniel&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <hr>
