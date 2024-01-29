@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mugi-Daniel
-- 👀 I’m interested in web development using PHP. 
+- 👀 I’m interested in Backend development using PHP. 
 - 🌱 I’m currently using Laravel framework.
-- I'm currently learning python and vue.js
+- I'm currently learning Flutter with Dart language
 - 💞️ I’m looking to collaborate on github for many projects
 - 📫 Reach me on wisedaniel080@gmail.com 
 - 
