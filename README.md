@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mugi-Daniel
-- 👀 I’m interested in Backend development using PHP. 
+- 👀 I’m interested in Backend development using PHP (Laravel). 
 - 🌱 I’m currently using Laravel framework.
 - I'm currently learning Flutter with Dart language
 - I'm also learning React.
